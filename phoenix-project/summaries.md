@@ -24,13 +24,13 @@ Setup of the people, their roles and the starting situation of the company
 ## Chapter 2
 
 - Finance is REALLY ANGRY about payroll failing
-    - Bill focuses on talking to people who can help and drills down
-    - Manual process to fix issues with payroll 😱
-    - Auditors are knocking on the doors so the problem has urgent timeline
+  - Bill focuses on talking to people who can help and drills down
+  - Manual process to fix issues with payroll 😱
+  - Auditors are knocking on the doors so the problem has urgent timeline
 - Further introduction of the team Bill is now responsible for
-    - Patty is responsible for the level 1 & 2 support
-    - Wes is responsible for DB, networking and servers
+  - Patty is responsible for the level 1 & 2 support
+  - Wes is responsible for DB, networking and servers
 - SAN firmware upgrade failed at the same time payroll did
-    - Rolling back bricked the SAN
-    - Fixing this delayed Phoenix work
-Delayed Phoenix work will have impact on management!
+  - Rolling back bricked the SAN
+  - Fixing this delayed Phoenix work
+  - Delayed Phoenix work will have impact on management!
