@@ -44,9 +44,9 @@ Setup of the people, their roles and the starting situation of the company
   - "The best way to make sure something doesn't get done is to have them in the room"
   - Because of the audit, a product was quickly deployed to anonymize the SSN field for compliance with EU regulations
   - CISO forced this through to avoid issues with the audit, breaking deployment process
-  - Claims he had to break the change process otherwise the next deployment window woudl be in 4 months
-- "Everyone thinks that the real way to get work done is to just do it. That makes my job nearly impossible"
+  - Claims he had to break the change process otherwise the next deployment window would be in 4 months
 - Change management and ticketing systems go unused
+  - "Everyone thinks that the real way to get work done is to just do it. That makes my job nearly impossible"
 - Newspaper report on the payroll failure hits the news
 
 ## Chapter 4
