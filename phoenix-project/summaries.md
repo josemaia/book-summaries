@@ -49,7 +49,7 @@ Setup of the people, their roles and the starting situation of the company
 - Change management and ticketing systems go unused
 - Newspaper report on the payroll failure hits the news
 
-Chapter 4
+## Chapter 4
 
 - Lots of emails from vendors trying to get something
 - Email from board worried about Project Phoenix being delayed again and it being Bill's responsibility
