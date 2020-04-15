@@ -85,7 +85,7 @@ Setup of the people, their roles and the starting situation of the company
   - 105 projects for 150 people mean 1.5 people per project
   - Compliance with the audit would stop the rest of the work for a whole year
   - 75% of the time is fire-fighting
-  - A clear planeis established to hire 7 new people
+  - A clear plan is established to hire 7 new people
 - Big change management meeting finally happens
   - Old process is scrapped, despite Patty's objections and the amount of time+money invested in it
   - Team decides to start writing things down in paper cards
