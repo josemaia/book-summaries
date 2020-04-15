@@ -69,14 +69,15 @@ Setup of the people, their roles and the starting situation of the company
 - Internal audit detcted potentially catastrophic issues
   - Response required in six working days, to a document with almost 200 pages
   - Audit caught multiple of the holes we saw in the previous chapters
+    - e.g. untested changes to production
 - Hiring has been a problem for Ops
   - Budget cuts
-  - Hirign senior engineers instead of younger ones ended up with half of them quitting and the remaining half underperforming
+  - Hiring senior engineers instead of younger ones ended up with half of them quitting and the remaining half underperforming
 - IT's work list is flooded with tasks without ordering or prioritizing
   - Official business project list (owned by Kirsten)
   - IT Operations projects (not centralized)
   - Service Desk (calls + random requests)
-  - A plan is made to fix this
+- A plan is made to fix this: one-line summaries for all the committment
 
 ## Chapter 6
 
