@@ -90,3 +90,39 @@ Setup of the people, their roles and the starting situation of the company
   - Old process is scrapped, despite Patty's objections and the amount of time+money invested in it
   - Team decides to start writing things down in paper cards
   - Almost 400 change requests submitted for next week
+
+## Chapter 7
+
+- Potential new board member in town
+  - Bill mistakes him for the delivery company...
+  - Erik is a really weird guy, who can't seem to remember anyone's name and lacks social graces
+- Scientifically-grounded management is introduced
+  - Theory of Constraints
+  - Toyota Production System / Lean production
+  - Total Quality Management
+  - Common objective: control work in progress
+- Three Ways
+  - First Way: fast flow of work
+  - Second Way: shorten and amplify feedback loops
+  - Third Way: culture
+- Four types of work
+  - #1: business project work
+  - #2-4: Erik tells Bill to find them out
+- The "new" laptop stops working too!
+
+## Chapter 8
+
+- Marketing is selling project Phoenix to analysts even though it's far from ready
+  - Might be a key factor in the pressure causing features to be released prematurely
+- Meeting with the CEO  
+  - Thirty minute meeting reduced to 20 minutes because the previous Phoenix meeting went over time - it ended up being just 17 because the next Phoenix meeting ALSO cut in at the end
+  - Lack of will to understand just how understaffed IT Operations is
+    - "Go to your peers and make your case to them"
+  - Change management whiteboard is overwhelming
+    - 437 changes for the week!
+  - Prioritization rules establishsed
+    - top 10 "most fragile" services/apps/infra must be approved by the CAB
+      - Reports on the success rates and downtime important, for business to evaluate
+    - low-risk, frequent changes (ITIL: 'standard changes') are approved automatically
+    - middle-risk "messy middle changes" are the change submitter's responsibility - they should contact people potentially affected
+  - Lack of automation in the process makes it very labour intensive
