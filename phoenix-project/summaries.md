@@ -126,3 +126,22 @@ Setup of the people, their roles and the starting situation of the company
     - low-risk, frequent changes (ITIL: 'standard changes') are approved automatically
     - middle-risk "messy middle changes" are the change submitter's responsibility - they should contact people potentially affected
   - Lack of automation in the process makes it very labour intensive
+
+## Chapter 9
+
+- Severity 1 outage! Credit card processing systems stopped working.
+- Blame throwing immediately starts
+  - Brent quickly fixes the problem... which may mean it was his responsibility in the first place
+  - 0 respect for change management process
+  - Bill wants people to start disclosing any changes they make during incidents, and trial runs to be done regularly
+- First change management is very successful
+- Bill figures out categories of work #1-3 are business projects, internal IT projects, and changes.
+
+## Chapter 10
+
+- Brent is acting as a bottleneck for Phoenix, as he is getting over-scheduled with tasks.
+  - Everyone calls him when they need something, and these calls are not registered anywhere in the system.
+  - Bill tells him to autoreply to everyone telling them to go through Wes instead of replying
+- Wes, Bill and Patty meet to find a way to avoid the bottleneck
+  - Level 3 engineers handle incident response, and only they can escalate to Brent, and they must document everything.
+  - Other "hard measures" are taken such as collecting the names of everyone who calls him.
