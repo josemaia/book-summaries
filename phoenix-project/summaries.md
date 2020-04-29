@@ -120,7 +120,7 @@ Setup of the people, their roles and the starting situation of the company
     - "Go to your peers and make your case to them"
 - Change management whiteboard is overwhelming
   - 437 changes for the week!
-  - Prioritization rules establishsed
+  - Prioritization rules established
     - top 10 "most fragile" services/apps/infra must be approved by the CAB
       - Reports on the success rates and downtime important, for business to evaluate
     - low-risk, frequent changes (ITIL: 'standard changes') are approved automatically
