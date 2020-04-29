@@ -118,8 +118,8 @@ Setup of the people, their roles and the starting situation of the company
   - Thirty minute meeting reduced to 20 minutes because the previous Phoenix meeting went over time - it ended up being just 17 because the next Phoenix meeting ALSO cut in at the end
   - Lack of will to understand just how understaffed IT Operations is
     - "Go to your peers and make your case to them"
-  - Change management whiteboard is overwhelming
-    - 437 changes for the week!
+- Change management whiteboard is overwhelming
+  - 437 changes for the week!
   - Prioritization rules establishsed
     - top 10 "most fragile" services/apps/infra must be approved by the CAB
       - Reports on the success rates and downtime important, for business to evaluate
