@@ -134,7 +134,9 @@ Setup of the people, their roles and the starting situation of the company
   - Brent quickly fixes the problem... which may mean it was his responsibility in the first place
   - 0 respect for change management process
   - Bill wants people to start disclosing any changes they make during incidents, and trial runs to be done regularly
+  - Patty is also responsible for every time there is a severity 1 outage, establishing a clear timeline of the issue at the start of meetings so everyone is on the same page
 - First change management is very successful
+  - Patty is congratulated for her work leading the project
 - Bill figures out categories of work #1-3 are business projects, internal IT projects, and changes.
 
 ## Chapter 10
