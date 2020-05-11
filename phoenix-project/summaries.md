@@ -178,3 +178,28 @@ Setup of the people, their roles and the starting situation of the company
   - Stores have to open in complete manual mode, as all POS systems are down
   - Phoenix website is incredibly slow, double/triple charging credit cards or losing transactions
   - Website leaks credit card numbers!
+
+## Chapter 13
+
+- Steve gets angry at everyone, as he's been forced into interviews with journalists to justify/explain what happened.
+- Sarah pressures for improved usability
+  - Development & Operations bot reject this, and implement a twice a day code rollout strategy, with only performance-related changes
+  - "the time for usability testing and validation was months ago"
+- Finance people have set up a war room with 16 people just to take care of the faxes to fix duplicate payments or missing orders
+  - Five thousand issues so far, twenty five thousand still to investigate!
+- CISO John detects a major security breach - manual orders are storing the CVV code of credit cards
+  - If auditors catch this, it would raise the transaction fees on every credit card usage, as well as huge fines
+  - Auditors are in the office today, but John tries to distract them while Bill fixes things
+- Operations is at capacity and cannot help fix the credit card issue
+  - John volunteers two Security engineers to help with some of the work (SOX-404 audit response letter)
+
+## Chapter 14
+
+- Situation is finally stabilized on Monday night
+- Steve suggests it's IT's fault
+  - “I need the business to tell me it’s no longer being held hostage by you IT guys."
+  - Proposes outsourcing all of IT if they can't pull off a miracle within 90 days
+- Bill and Chris have a meeting over lunch to discuss this
+  - "Technology keeps changing faster and faster, and it’s nearly impossible to keep up anymore"
+  - They decide to meet once a week to try and stop the outsourcing idea
+- Dev guys throw a party and invite the Ops folks, but Wes isn't very happy with this due to the Ops team still fixing the transactions.
