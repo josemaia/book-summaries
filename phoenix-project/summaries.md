@@ -147,3 +147,34 @@ Setup of the people, their roles and the starting situation of the company
 - Wes, Bill and Patty meet to find a way to avoid the bottleneck
   - Level 3 engineers handle incident response, and only they can escalate to Brent, and they must document everything.
   - Other "hard measures" are taken such as collecting the names of everyone who calls him.
+
+## Chapter 11
+
+- Patty is disappointed with the change management process
+  - Three people full-time are necessary to manage it
+  - Only 40% of the changes got implemented since last week!
+  - Lots of different reasons for the failed changes, but many are because Brent was not available
+- We go back to the analogy betweeN IT and the plant floor
+  - If Brent is the bottleneck, we need exactly what changes need him, and if they can be done with the level 3 engineers
+- If Erik was right about WIP in IT Operations, what else was he right about?
+
+## Chapter 12
+
+- Phoenix has turned into a _death march_
+  - "It's not a good sign when they're still attaching parts to the space shuttle at liftoff time"
+  - "works on my machine" syndrome, Ops vs Dev
+- Deploying Phoenix in production doesn't seem viable
+  - They can't even get the dev environment up and running
+  - Feedback loop is very long (30 minutes setup, 3 hours smoke tests), and by the time it's done there are multiple more releases ready to test
+  - Version control gets really messy
+- Bill contacts Steve to try to get a delay
+  - References a [Toys-R-Us trainwreck](https://nytimes.com/1999/12/23/business/toys-r-us-falls-behind-on-shipping.html) in an attempt to explain the level of catastrophe we coudl be facing
+  - Steve passes the ball to Sarah, and she says no
+- "Point of no return" is hit and things still aren't working
+  - Database migration will take much longer than expected
+  - Performance is terrible
+  - Lots of manual hacks required
+- Deployment completely fails
+  - Stores have to open in complete manual mode, as all POS systems are down
+  - Phoenix website is incredibly slow, double/triple charging credit cards or losing transactions
+  - Website leaks credit card numbers!
