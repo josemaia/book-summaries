@@ -154,7 +154,7 @@ Setup of the people, their roles and the starting situation of the company
   - Three people full-time are necessary to manage it
   - Only 40% of the changes got implemented since last week!
   - Lots of different reasons for the failed changes, but many are because Brent was not available
-- We go back to the analogy betweeN IT and the plant floor
+- We go back to the analogy between IT and the plant floor
   - If Brent is the bottleneck, we need exactly what changes need him, and if they can be done with the level 3 engineers
 - If Erik was right about WIP in IT Operations, what else was he right about?
 
@@ -183,7 +183,7 @@ Setup of the people, their roles and the starting situation of the company
 
 - Steve gets angry at everyone, as he's been forced into interviews with journalists to justify/explain what happened.
 - Sarah pressures for improved usability
-  - Development & Operations bot reject this, and implement a twice a day code rollout strategy, with only performance-related changes
+  - Development & Operations both reject this, and implement a twice a day code rollout strategy, with only performance-related changes
   - "the time for usability testing and validation was months ago"
 - Finance people have set up a war room with 16 people just to take care of the faxes to fix duplicate payments or missing orders
   - Five thousand issues so far, twenty five thousand still to investigate!
