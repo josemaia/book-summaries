@@ -203,3 +203,15 @@ Setup of the people, their roles and the starting situation of the company
   - "Technology keeps changing faster and faster, and it’s nearly impossible to keep up anymore"
   - They decide to meet once a week to try and stop the outsourcing idea
 - Dev guys throw a party and invite the Ops folks, but Wes isn't very happy with this due to the Ops team still fixing the transactions.
+
+## Chapter 15
+
+- Bill has breakfest with his wife in which he reviews his life situation
+  - He stresses that his purpose is now to stop the oursourcing
+- Change board succeeded at avoiding a collision!
+- Unfortunately, the change board is super messy now, because of Phoenix disrupting all planned work
+  - This means we just found the fourth category of work - **unplanned** work!
+- Bill calls Erik and updates him on what has been happening
+  - Next mission: figure out how to set the tempo of work according to Brent, as he is the constraint.
+  - "outcomes are what matter—not the process, not controls, or, for that matter, what work you complete.”
+
