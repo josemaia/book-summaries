@@ -215,3 +215,21 @@ Setup of the people, their roles and the starting situation of the company
   - Next mission: figure out how to set the tempo of work according to Brent, as he is the constraint.
   - "outcomes are what matter—not the process, not controls, or, for that matter, what work you complete.”
 
+## Chapter 16
+
+- Company invoicing hasn't been working for 3 days!
+- Primary guideline for fixing the fialure is to avoid losing transactions
+  - Patty's team looks into all possible failure causes and drills down to 8
+  - 8 people are responsible for looking further into each
+- As the team is working on it, Bill gets a call from Steve
+  - Steve is panicking, so he forces everyone to get out of bed and go to work trying to fix this
+  - Bill tries to defuse the situation and continue working on things with a structured plan but Steve refuses and forces the escalation
+  - In response, Bill tells him to call the shots himself, and announces he will resign the next day.
+
+## Chapter 17
+
+- Patty and Wes call Bill four days later
+  - Everything is on fire - the inventory management systems are now down too.
+- Steve talked to Bill's wife, and she gets him to call Steve back
+- Steve's proposal is for Bill to assume his job again, for at least 90 days. At the end of those days, if he still wants to leave, he can do so with a 1 year severance package.
+- After a 45 minute discussion, he eventually accepts.
