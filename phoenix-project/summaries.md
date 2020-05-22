@@ -232,4 +232,24 @@ Setup of the people, their roles and the starting situation of the company
   - Everything is on fire - the inventory management systems are now down too.
 - Steve talked to Bill's wife, and she gets him to call Steve back
 - Steve's proposal is for Bill to assume his job again, for at least 90 days. At the end of those days, if he still wants to leave, he can do so with a 1 year severance package.
+  - This proposal was brought on by Erik and the audit committee "kicking [Steve's] ass"
 - After a 45 minute discussion, he eventually accepts.
+
+## Chapter 18
+
+- Chapter opens with an "off-site" IT leadership meeting
+  - Steve admits to his mistakes managing IT and tells his personal life story
+  - “Are you guys willing to do what it takes to help create a team where we can all trust one another?”
+
+## Chapter 19
+
+- Everyone else shares their personal stories
+- Discussion on why IT always misses every commitment/schedule
+  - Chris states that they hit the date for Phoenix, but how can that be when the deployment failed?
+  - Dev did not factor in the work Operations needed to do!
+  - "When deployments don’t go as planned, whether the plan was written by your group or mine, it affects everybody else."
+- They forgot the security guy! He doesn't get to share a personal story.
+- "Left unchecked, technical debt will ensure that the only work that gets done is unplanned work!”
+- The managers come up with a hail mary - freeeze all work except for Phoenix work.
+  - Development can still continue working on non-Phoenix projects, but just won't deploy them
+  - Operations freezes all work for two weeks
