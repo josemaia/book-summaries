@@ -218,7 +218,7 @@ Setup of the people, their roles and the starting situation of the company
 ## Chapter 16
 
 - Company invoicing hasn't been working for 3 days!
-- Primary guideline for fixing the fialure is to avoid losing transactions
+- Primary guideline for fixing the failure is to avoid losing transactions
   - Patty's team looks into all possible failure causes and drills down to 8
   - 8 people are responsible for looking further into each
 - As the team is working on it, Bill gets a call from Steve
