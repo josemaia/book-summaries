@@ -218,7 +218,7 @@ Setup of the people, their roles and the starting situation of the company
 ## Chapter 16
 
 - Company invoicing hasn't been working for 3 days!
-- Primary guideline for fixing the failure is to avoid losing transactions
+- Primary guideline for fixing the fialure is to avoid losing transactions
   - Patty's team looks into all possible failure causes and drills down to 8
   - 8 people are responsible for looking further into each
 - As the team is working on it, Bill gets a call from Steve
@@ -253,3 +253,59 @@ Setup of the people, their roles and the starting situation of the company
 - The managers come up with a hail mary - freeeze all work except for Phoenix work.
   - Development can still continue working on non-Phoenix projects, but just won't deploy them
   - Operations freezes all work for two weeks
+
+## Chapter 20
+
+- After a week of the freeze, the focus on Phoenix has been enough to start fixing things
+  - Multiple people are angry about their projects, particularly Sarah
+  - "the project freeze has reduced the priority conflicts and bad multitasking"
+- A vendor made a change to the phone system causing downtime
+  - To prevent this from happening again, the team starts a monitoring project
+- Decision for what to work on at any given time doesn't have a heuristic
+  - "Priority 1 is whoever is yelling the loudest"
+- Erik and Bill discuss the priority issues
+  - *Standardizing* work was what allowed Brent to not be as big of a constraint
+  - The monitoring project will be very important, because it prevents outages, thus freeign up more of Brent's time (reducing the load on the constraint)
+  - Properly elevating preventive work is important (Total Productive Maintenance)
+  - Work for the CISO isn't a good use of time, as it won't do anything for the constraints
+
+## Chapter 21
+
+- Meeting with external audit goes well, despite John's worries
+  - Erik being friends with the external auditor probably didn't hurt
+- John is really angry at how the audit ignored the IT Security risks he warned about
+  - Erik calls him out for this
+  - "you win when you protect the organization without putting meaningless work into the IT system. And you win even more when you can take meaningless work out of the IT system."
+  - He ends up leaving the room and threatening to quit his job
+
+## Chapter 22
+
+- John hasn't showed up for owrk
+- Patty, Bill and Wes meet to try to determine which projects can start being worked on
+  - They try to map the projects to physical resources (inputs, outputs, machines, etc.)
+  - They decide to start the monitoring project ASAP and test some of these concepts with smaller service requests (password resets, laptop replacements, etc.)
+- Patty sets up kanban boards with three columns: "Ready", "Doing" and "Done"
+  - The board also has rows to subdivide the index cards
+  - Cards are also colored depending on how critical the projects they support are, and if they are blocked
+  - All work must go through kanban boards
+- Bill now has a date for his laptop replacement!
+  - Applying these techniques to laptop replacements drove down error rates, on top of having a queue with times
+- Patty proposes creating a Kanban just for Brent, since he is the constraint
+- They come up with a strategy for the project un-freeze
+  - When determining the projects, they separate them between business and internal projects
+  - The top five business projects will be unfrozen immediately
+  - For the internal project, they decide to establish three lists: requires Brent, increases Brent's throughput, and everything else
+  
+## Chapter 23
+
+- Scheduling estimates have failed, causing almost a week of delays
+- Biggest cause is the lack of slack time - since everyone is at high capacity, WIP spends a lot of time in the queue.
+- Tasks are being assigned to a single person when in reality they depend on multiple people and imply having handoffs
+- "if we can standardize all our recurring deployment work, we’ll finally be able to enforce uniformity of our production configurations"
+  - Brent became the constraint because he was allowed to build infrastructure only he could understand
+
+## Chapter 24
+
+- John has a complete meltdown
+  - He asks Bill how he has helped him over the years, and Bill replies he was mostly independent
+  - John's epiphany: "if I haven’t done anything useful for you, who I should have the most in common with, then it stands to reason that I haven’t been useful to almost everyone else, who I have nothing in common with."
