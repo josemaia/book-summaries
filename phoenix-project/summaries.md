@@ -265,7 +265,7 @@ Setup of the people, their roles and the starting situation of the company
   - "Priority 1 is whoever is yelling the loudest"
 - Erik and Bill discuss the priority issues
   - *Standardizing* work was what allowed Brent to not be as big of a constraint
-  - The monitoring project will be very important, because it prevents outages, thus freeign up more of Brent's time (reducing the load on the constraint)
+  - The monitoring project will be very important, because it prevents outages, thus freeing up more of Brent's time (reducing the load on the constraint)
   - Properly elevating preventive work is important (Total Productive Maintenance)
   - Work for the CISO isn't a good use of time, as it won't do anything for the constraints
 
