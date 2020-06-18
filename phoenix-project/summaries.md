@@ -280,7 +280,7 @@ Setup of the people, their roles and the starting situation of the company
 
 ## Chapter 22
 
-- John hasn't showed up for owrk
+- John hasn't showed up for work
 - Patty, Bill and Wes meet to try to determine which projects can start being worked on
   - They try to map the projects to physical resources (inputs, outputs, machines, etc.)
   - They decide to start the monitoring project ASAP and test some of these concepts with smaller service requests (password resets, laptop replacements, etc.)
