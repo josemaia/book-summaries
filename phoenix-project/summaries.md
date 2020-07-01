@@ -309,3 +309,72 @@ Setup of the people, their roles and the starting situation of the company
 - John has a complete meltdown
   - He asks Bill how he has helped him over the years, and Bill replies he was mostly independent
   - John's epiphany: "if I haven’t done anything useful for you, who I should have the most in common with, then it stands to reason that I haven’t been useful to almost everyone else, who I have nothing in common with."
+
+## Chapter 25
+
+- John cleaned himself up and organizes a meeting with the CFO Dick
+  - In this meeting, they focus on multiple things: what Dick does for the company, what is a good/bad day at work for him, and what is important for him in terms of company goals.
+- John & Bill believe that 'get Phoenix working' doesn't match Dick's most important goals
+  - Erik describes this in a call as "that there are organizational commitments that IT is responsible for helping uphold and protect that no one has verbalized precisely yet".
+- IT's mission: find out where you have underscoped (IT not helping attain business goals) and over-scoped (IT doing things that aren't necessary such as John's IT security controls that didn't do much for SOX-404)
+  - John must talk with the finance side of the audit team to udnerstand what really happened that made his job over-scoped
+
+## Chapter 26
+
+- The team has a meeting with the VP of Manufacturing Sales Ron
+  - Sales people are quitting often because the revenue targets are being set too high
+  - "if we know what products were out of stock in the stores, we could increase sales"
+- They get Ron's support to implement monitoring measures due to the phone system crash which cost his team a lot of effort
+- Patty decides to do some preventive work by making a list of the infrastructure that supports Ron's work and seeing if anything is in need of replacement.
+- The next meeting is with Maggie, the business sponsor of Phoenix
+  - She complains about data quality - you can't do any forecasting if you don't trust your data
+  - It's very important for the company to have a fast cycle time for product development, as well as quick feedback loops
+- Once again we see that Phoenix won't actually solve everyone's problems
+  - "We’ve spent over $20 million on Phoenix over three years. With all that WIP and capital locked inside the project, it will likely never clear the ten percent internal hurdle rate. In other words, Phoenix should not have been approved."
+
+## Chapter 27
+
+- There's a meeting with Patty, Wes, Chris and John to share the progress from the last two chapters's meetings
+  - For each of Dick's performance measures, Bill made a list of IT systems they rely on and what happens if the systems fail.
+  - During the meeting, they try to find countermeasures to prevent/fix those potential failures.
+- After coming up with the countermeasures, Bill has a meeting with Dick
+  - Dick is unimpressed, because he believes "everyone should know" these things are important
+  - Bill successfully explains how IT risks are business risks, and proposes a strategy:
+    - Three weeks with each of the business process owners to udnerstand the business risks posed by IT
+    - A meeting about Phoenix with Chris and Dick
+- John figures out what exactly was overscoped in the audio
+  - One of the financial analysts, Faye, created control documents that showed that what detected errors was a manual step, not IT
+- John proposes measures to reduce the security workload drastically
+  - Reduce the scope of the SOX-404 compliance program
+  - Analyse how production vulnerabilities got htere and how to modify the deployment process to make sure they don't happen again
+  - Flag every system which is in the scope for compliance audits
+  - Outsource anything that stores or processes cardholder data (e.g. cafeteria POS)
+  - Pay down all the technical debt in Phoenix using the time saved from the previous 4
+    - To do this, integrate security in everyone's daily work
+
+## Chapter 28
+
+- The measures taken earlier have all succeeded and improved the way the company works
+- John finds out that there's people going around the project freeze by using cloud/online services
+  - Two of the more problematic projects (both Sarah's) share customer data with third party vendors for analytics purposes, breaking compliancy with the company's own privacy policy
+- Despite all the improvement, the new Phoenix deployment still has some issues
+  - A database migration fails, and there isn't enough time to roll it back
+  - The root cause is a change to the production database to support one of Sarah's BI projects
+  - The emergency deployment completes successfully at 6 AM, but Bill goes home thiniing of how to avoid this in the future.
+
+## Chapter 29
+
+- Sarah claims her external projects going outside of IT were important due to the need to be nimble
+  - Steve proposes she have a meeting with Chris and Bill to try and figure this out, and she eventually agrees but mentions that some of the shareholders are thinking about splitting up the company
+- Erik identifies the biggest problem with Phoenix being the long feedback loops and huge WIP
+  - Work needs to go forward - when it goes backward that's always waste. How can IT create a flow like that?
+- In order to achieve the goals of Phoenix without slowing it down further, they decide to break of a samall squad to work on the most critical features to help hit revenue goals
+  - "We need to focus on generating good customer recommendations and enable Marketing to create promotions to sell profitable products that we have in inventory"
+
+## Chapter 30
+
+- As part of the Second Way, Erik challenges Bill to create a feedback loop that goes all the way back to product definiiton/design
+  - He gives some examples of optimizing things in the context of the plant
+  - He challenges Bill to move up to ten deploys a day!
+- "until code is in production, no value is actually being generated, because it’s merely WIP stuck in the system."
+- Brent has to be leading the process to create a proper deplyoment pipeline, in order to get humans out of the deployment process
