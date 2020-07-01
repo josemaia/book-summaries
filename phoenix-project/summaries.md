@@ -265,7 +265,7 @@ Setup of the people, their roles and the starting situation of the company
   - "Priority 1 is whoever is yelling the loudest"
 - Erik and Bill discuss the priority issues
   - *Standardizing* work was what allowed Brent to not be as big of a constraint
-  - The monitoring project will be very important, because it prevents outages, thus freeign up more of Brent's time (reducing the load on the constraint)
+  - The monitoring project will be very important, because it prevents outages, thus freeing up more of Brent's time (reducing the load on the constraint)
   - Properly elevating preventive work is important (Total Productive Maintenance)
   - Work for the CISO isn't a good use of time, as it won't do anything for the constraints
 
@@ -280,7 +280,7 @@ Setup of the people, their roles and the starting situation of the company
 
 ## Chapter 22
 
-- John hasn't showed up for owrk
+- John hasn't showed up for work
 - Patty, Bill and Wes meet to try to determine which projects can start being worked on
   - They try to map the projects to physical resources (inputs, outputs, machines, etc.)
   - They decide to start the monitoring project ASAP and test some of these concepts with smaller service requests (password resets, laptop replacements, etc.)
