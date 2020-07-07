@@ -378,3 +378,55 @@ Setup of the people, their roles and the starting situation of the company
   - He challenges Bill to move up to ten deploys a day!
 - "until code is in production, no value is actually being generated, because it’s merely WIP stuck in the system."
 - Brent has to be leading the process to create a proper deployment pipeline, in order to get humans out of the deployment process
+
+## Chapter 31
+
+- The chapter starts with a meeting to discuss the deployment process
+  - Bill proposes the ten deploys per day strategy, which shocks Chris because their sprints are three weeks long
+  - They diagram every step in the process, both from the dev and ops sides, then Bill marks every step that caused issues in previous deployments with a red star.
+  - Patty adds the operations's length and whether or not work typically has to wait for that step to make it look more like a value stream.
+- The two key points are environment availability/synchronization and code packaging/deployment.
+  - First problem's proposed tactic is to create a single build procedure for dev/QA/prod and standardize those environments.
+  - Second problem's proposed tactic is to have packaged code that's ready to be deployed as an artifact of the process.
+- They also note that Security should be involved, since this module of Phoenix deals with customer data.
+ 
+## Chapter 32
+
+- The small squad's project now has a name (Unicorn)
+  - Brent's team created build procedures and automatization to help environment standardization, and everyone can start working by just checking out a VM that they built
+  - Automated code deployments and migration aren't ready yet but they're close
+  - The success hitting sprint goals made them decide to move sprints to 2 week cycles, to make it easier for sprints to stick closer to their planning
+  - Unicorn's practices are being slowly integrated into the main Phoenix project.
+- Brent is "hijacked" by Dick to go to Iowa help with the plan to split up the company that Sarah threatened earlier
+  - Bill tells him not to go, as if Unicorn fails the company splitting will surely happen, but if they succeed they still have a chance.
+  - Bill asks for Steve's intervention and gets it, by sending someone else to Iowa
+
+## Chapter 33
+
+- Sarah is really angry at Brent being "stolen" from her
+- Unicorn is running slower than expected, so developers want to use brute force
+  - Getting more servers isn't viable, but since they're already using virtualization they can easily move to the cloud
+  - John works on mitigating the security risks from the cloud, and Maggie on the pricing side of things
+- Deploying to the cloud is successful, and they decide to use the cloud for production and the local servers for testing
+- To try all of this out, they decide to do an email promotion to 1% of their customers, to get ready to do something bigger for Black Friday
+  - Conversion rates end up being five times higher than anything they did before
+- John indicates that having security integrated from the start on Unicorn has made his life much easier
+  - All the audit issues have also been closed, finally
+
+## Chapter 34
+
+- The promotion's success outpaced what the servers could handle, constantly bringing them down
+- Real-time recommendations, a feature that was very important in this success, are turned off to help with the traffic
+  - Turning them off took two hours, but now there's a configuration setting which means that if there's a need to do this again, it would take minutes instead
+- Other improvements are also implemented, like adding CDNs for graphics and optimizing database queries, and eventually the customer experience is good enough.
+- Steve congratulates everyone on the success
+  - Sarah is angry because a competitor has implemented a feature they don't have (custom build-to-order kits), but Wes claims they can do it easily
+- Unfortunately Wes's idea doesn't match reality, and the outsourced company that implemented their mainframe gives them an eighteen month estimation
+  - Bill proposes to spend 1 million dollars buying out the contract and bringing the developers back in-house so they can integrate it with Unicorn
+
+## Chapter 35
+
+- They developed a chaos engineering solution to test the infrastructure and gradually made it more secure
+- Steve invites everyone over for a party
+  - Before it, he extends Bill a proposal to begin training to replace Dick as COO when he retires, while he assumes the role of CIO.
+  - Steve will promote Patty to his previous job while he becomes CIO, and then eventually make her CIO and Wes the head of IT Operations.
