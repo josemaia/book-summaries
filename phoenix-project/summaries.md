@@ -66,7 +66,7 @@ Setup of the people, their roles and the starting situation of the company
 
 ## Chapter 5
 
-- Internal audit detcted potentially catastrophic issues
+- Internal audit detected potentially catastrophic issues
   - Response required in six working days, to a document with almost 200 pages
   - Audit caught multiple of the holes we saw in the previous chapters
     - e.g. untested changes to production
@@ -77,7 +77,7 @@ Setup of the people, their roles and the starting situation of the company
   - Official business project list (owned by Kirsten)
   - IT Operations projects (not centralized)
   - Service Desk (calls + random requests)
-- A plan is made to fix this: one-line summaries for all the committment
+- A plan is made to fix this: one-line summaries for all the commitment
 
 ## Chapter 6
 
@@ -168,7 +168,7 @@ Setup of the people, their roles and the starting situation of the company
   - Feedback loop is very long (30 minutes setup, 3 hours smoke tests), and by the time it's done there are multiple more releases ready to test
   - Version control gets really messy
 - Bill contacts Steve to try to get a delay
-  - References a [Toys-R-Us trainwreck](https://nytimes.com/1999/12/23/business/toys-r-us-falls-behind-on-shipping.html) in an attempt to explain the level of catastrophe we coudl be facing
+  - References a [Toys-R-Us train-wreck](https://nytimes.com/1999/12/23/business/toys-r-us-falls-behind-on-shipping.html) in an attempt to explain the level of catastrophe we could be facing
   - Steve passes the ball to Sarah, and she says no
 - "Point of no return" is hit and things still aren't working
   - Database migration will take much longer than expected
@@ -206,8 +206,8 @@ Setup of the people, their roles and the starting situation of the company
 
 ## Chapter 15
 
-- Bill has breakfest with his wife in which he reviews his life situation
-  - He stresses that his purpose is now to stop the oursourcing
+- Bill has breakfast with his wife in which he reviews his life situation
+  - He stresses that his purpose is now to stop the outsourcing
 - Change board succeeded at avoiding a collision!
 - Unfortunately, the change board is super messy now, because of Phoenix disrupting all planned work
   - This means we just found the fourth category of work - **unplanned** work!
@@ -218,7 +218,7 @@ Setup of the people, their roles and the starting situation of the company
 ## Chapter 16
 
 - Company invoicing hasn't been working for 3 days!
-- Primary guideline for fixing the fialure is to avoid losing transactions
+- Primary guideline for fixing the failure is to avoid losing transactions
   - Patty's team looks into all possible failure causes and drills down to 8
   - 8 people are responsible for looking further into each
 - As the team is working on it, Bill gets a call from Steve
@@ -250,7 +250,7 @@ Setup of the people, their roles and the starting situation of the company
   - "When deployments don’t go as planned, whether the plan was written by your group or mine, it affects everybody else."
 - They forgot the security guy! He doesn't get to share a personal story.
 - "Left unchecked, technical debt will ensure that the only work that gets done is unplanned work!”
-- The managers come up with a hail mary - freeeze all work except for Phoenix work.
+- The managers come up with a Hail Mary - freeze all work except for Phoenix work.
   - Development can still continue working on non-Phoenix projects, but just won't deploy them
   - Operations freezes all work for two weeks
 
