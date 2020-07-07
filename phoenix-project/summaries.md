@@ -317,7 +317,7 @@ Setup of the people, their roles and the starting situation of the company
 - John & Bill believe that 'get Phoenix working' doesn't match Dick's most important goals
   - Erik describes this in a call as "that there are organizational commitments that IT is responsible for helping uphold and protect that no one has verbalized precisely yet".
 - IT's mission: find out where you have underscoped (IT not helping attain business goals) and over-scoped (IT doing things that aren't necessary such as John's IT security controls that didn't do much for SOX-404)
-  - John must talk with the finance side of the audit team to udnerstand what really happened that made his job over-scoped
+  - John must talk with the finance side of the audit team to understand what really happened that made his job over-scoped
 
 ## Chapter 26
 
@@ -340,13 +340,13 @@ Setup of the people, their roles and the starting situation of the company
 - After coming up with the countermeasures, Bill has a meeting with Dick
   - Dick is unimpressed, because he believes "everyone should know" these things are important
   - Bill successfully explains how IT risks are business risks, and proposes a strategy:
-    - Three weeks with each of the business process owners to udnerstand the business risks posed by IT
+    - Three weeks with each of the business process owners to understand the business risks posed by IT
     - A meeting about Phoenix with Chris and Dick
 - John figures out what exactly was overscoped in the audio
   - One of the financial analysts, Faye, created control documents that showed that what detected errors was a manual step, not IT
 - John proposes measures to reduce the security workload drastically
   - Reduce the scope of the SOX-404 compliance program
-  - Analyse how production vulnerabilities got htere and how to modify the deployment process to make sure they don't happen again
+  - Analyse how production vulnerabilities got there and how to modify the deployment process to make sure they don't happen again
   - Flag every system which is in the scope for compliance audits
   - Outsource anything that stores or processes cardholder data (e.g. cafeteria POS)
   - Pay down all the technical debt in Phoenix using the time saved from the previous 4
@@ -360,7 +360,7 @@ Setup of the people, their roles and the starting situation of the company
 - Despite all the improvement, the new Phoenix deployment still has some issues
   - A database migration fails, and there isn't enough time to roll it back
   - The root cause is a change to the production database to support one of Sarah's BI projects
-  - The emergency deployment completes successfully at 6 AM, but Bill goes home thiniing of how to avoid this in the future.
+  - The emergency deployment completes successfully at 6 AM, but Bill goes home thinking of how to avoid this in the future.
 
 ## Chapter 29
 
@@ -368,13 +368,13 @@ Setup of the people, their roles and the starting situation of the company
   - Steve proposes she have a meeting with Chris and Bill to try and figure this out, and she eventually agrees but mentions that some of the shareholders are thinking about splitting up the company
 - Erik identifies the biggest problem with Phoenix being the long feedback loops and huge WIP
   - Work needs to go forward - when it goes backward that's always waste. How can IT create a flow like that?
-- In order to achieve the goals of Phoenix without slowing it down further, they decide to break of a samall squad to work on the most critical features to help hit revenue goals
+- In order to achieve the goals of Phoenix without slowing it down further, they decide to break of a small squad to work on the most critical features to help hit revenue goals
   - "We need to focus on generating good customer recommendations and enable Marketing to create promotions to sell profitable products that we have in inventory"
 
 ## Chapter 30
 
-- As part of the Second Way, Erik challenges Bill to create a feedback loop that goes all the way back to product definiiton/design
+- As part of the Second Way, Erik challenges Bill to create a feedback loop that goes all the way back to product definition/design
   - He gives some examples of optimizing things in the context of the plant
   - He challenges Bill to move up to ten deploys a day!
 - "until code is in production, no value is actually being generated, because it’s merely WIP stuck in the system."
-- Brent has to be leading the process to create a proper deplyoment pipeline, in order to get humans out of the deployment process
+- Brent has to be leading the process to create a proper deployment pipeline, in order to get humans out of the deployment process
